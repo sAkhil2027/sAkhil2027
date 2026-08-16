@@ -1,3 +1,5 @@
+![Tech Stack Banner](watermarked_img_7481536560775222576.png)
+
 ## Hi there 👋
 # 💫 About Me:
 👋 Hi, I’m Akhil Vikram Singh<br>🎓 Exploring Python, AI & Machine Learning<br>🧠 Currently learning Deep Learning and core ML concepts step by step<br>💻 I enjoy building projects and understanding how things work internally<br>📊 Interested in data, neural networks, and problem solving<br>🚀 Goal: Become skilled in AI/ML through consistent learning and practice
